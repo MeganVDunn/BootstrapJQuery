@@ -1,0 +1,81 @@
+
+*{
+    margin: 0; 
+    padding: 0;
+    
+}
+
+
+h3 h5 h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+u {
+    color: blue;
+}
+
+.container3 h6 {
+    font-weight: 300;
+}
+
+.container2 h5 {
+    font-weight: 300;
+}
+
+.container1 h3 {
+    font-weight: 300;
+}
+
+
+.container1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container3 {
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 2px;
+}
+
+#redbox {
+    background-color: red;
+    border: 2px solid black;
+    height: 50px;
+}
+
+#bluebox{
+    background-color: blue;
+    border: 3px dashed black;
+    height: 50px;
+}
+
+#greenbox {
+    background-color: green;
+    border: 2px solid purple;
+    height: 50px;
+}
+
+.btn-info,
+.btn-info:hover,
+.btn-info:active,
+.btn-info:visited,
+.btn-info:focus {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+    color: white;
+}
+
+.containerSpace {
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
